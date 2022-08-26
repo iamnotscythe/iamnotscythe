@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @iamnotscythe
-- 👀 I’m interested in cu
-- 🌱 I’m currently learning cu++
-- 💞️ I’m looking to collaborate on cuython
-- 📫 How to reach me SchytE#6969
-- iamnotscythe/schyte_rpc is my masterpiece check it out and contact with me in discord I will help you.
+- 👋 Hi, I’m iamnotscythe
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me u can't reach me
+- iamnotscythe/schyte_rpc is my masterpiece check it out and don't contact with me in discord I will not help you.
 . ```I'm out have a nice day```
 
 <!---
