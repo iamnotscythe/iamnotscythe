@@ -1,9 +1,8 @@
-- 👋 Hi, I’m iamnotscythe
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me u can't reach me
-- iamnotscythe/schyte_rpc is my masterpiece check it out and don't contact with me in discord I will not help you.
+- 👋 Hi, I’m Arda
+- 👀 I’m interested in working princible of computers
+- 🌱 I’m always learning 
+- 💞️ I’m looking to collab any projects
+- iamnotscythe/schyte_rpc is my masterpiece.
 . ```I'm out have a nice day```
 
 <!---
